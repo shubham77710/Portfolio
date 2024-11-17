@@ -139,6 +139,7 @@ body{
     width: 70%;
     max-width: 600px;
     padding: 50px;
+    padding-top: 0px;
     padding-left: 150px;
     display: flex;
     flex-direction: column;
@@ -233,9 +234,8 @@ body{
     display: flex;
     flex-direction: column;
     align-items: left;
+     padding-top: 0px;
      margin-top: 70px;
-
-    
 }
 
 .img1{
